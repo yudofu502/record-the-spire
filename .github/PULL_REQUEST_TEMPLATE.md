@@ -1,4 +1,9 @@
 <!-- I want to review in Japanese. -->
+## 変更内容
+- 変更内容1
+- 変更内容2
+- ...
+
 ## レビューに関して
 レビューする際には、以下のprefix(接頭辞)を付けましょう。
 <!-- for GitHub Copilot review rule -->

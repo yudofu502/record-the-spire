@@ -25,7 +25,5 @@ dist-ssr
 
 .vscode
 
-# copilot
-docs
-.copilotrules.md
-.githubmcp
+# secrets
+*.env
