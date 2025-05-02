@@ -1,4 +1,5 @@
 import { useAtom } from 'jotai';
+import { Link } from 'react-router-dom';
 import { runsAtom } from '../features/runs/states';
 
 function FileListPage() {
@@ -10,7 +11,9 @@ function FileListPage() {
       <ul>
         {runs.map((file, index) => (
           <li key={index}>
-            {file.name}
+            <Link to={`/file-content/${index}`}>
+              {file.name}
+            </Link>
           </li>
         ))}
       </ul>
