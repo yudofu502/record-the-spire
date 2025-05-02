@@ -45,4 +45,4 @@
   - doc: ドキュメントの更新
   - refactor: リファクタリング
   - chore: その他の修正
-- プルリクエストの作成に当たっては.github\PULL_REQUEST_TEMPLATE.mdのテンプレートを使用してください
+- プルリクエストの作成に当たっては.github/PULL_REQUEST_TEMPLATE.mdのテンプレートを使用してください
