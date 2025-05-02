@@ -3,7 +3,6 @@
 - 変更内容1
 - 変更内容2
 - ...
-
 ## レビューに関して
 レビューする際には、以下のprefix(接頭辞)を付けましょう。
 <!-- for GitHub Copilot review rule -->
@@ -14,7 +13,5 @@
 [fyi] → 参考情報
 <!-- for GitHub Copilot review rule-->
 ## PRのルール
-- まずはDraftでPRを作成する。
-- レビューに出せる状態になったらOpenにする。（レビュワーがランダムにアサインされます）
 - レビューなしでのmainブランチへのマージは原則禁止
 <!-- I want to review in Japanese. -->
