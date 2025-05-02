@@ -52,11 +52,3 @@ export default tseslint.config({
   },
 })
 ```
-
-## TODO List
-
-### Pages
-[ ] runファイルアップロードページ
-[ ] データ閲覧ページ
-
-SSIIをヒントにローカルでモックサーバーを立ち上げる？
